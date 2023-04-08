@@ -1,6 +1,6 @@
 @import url(https://celestialreaver.github.io/BetterDiscord/themes/base/icon-settings.css);
 @import url(https://celestialreaver.github.io/BetterDiscord/themes/base/hljs.css);
-@import url(https://celestialreaver.github.io/BetterDiscord/themes/base/font.css);
+@import url(https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap);
 @import url(https://celestialreaver.github.io/BetterDiscord/themes/base/addons.css);
 @import url(https://celestialreaver.github.io/BetterDiscord/themes/base/discard/specialColors.css);
 
@@ -38,7 +38,7 @@
   line-height: 1;
   margin: 0;
   padding: 0;
-  font-family: var(--customFont) !important;
+  font-family: 'Roboto Slab';
   font-size: 14px !important;
   overflow: hidden;
 }
@@ -53,7 +53,7 @@ body {
   line-height: 1;
   margin: 0;
   padding: 0;
-  font-family: var(--customFont) !important;
+  font-family: 'Roboto Slab';
   overflow: hidden;
   background: transparent;
   border-radius: 3px;
